@@ -15,11 +15,14 @@ FEDN will be online social engineering tool.
 
 # Cloud approach
 
-FEDN will available for everyone. it will be available soon on http:\\www.fedn.com\
+FEDN will available for everyone. it will be available soon on www.fedn.com
 
 # Contact
 
 Hitesh Kumar (Rohilla)
+
 Ph. +91-7838958988
+
 email : rohilla.hitesh@gmail.com
+
 skype : rohilla.hitesh
