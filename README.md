@@ -15,7 +15,7 @@ FEDN will be online social engineering tool.
 
 # Cloud approach
 
-FEDN will available for everyone. it will be available soon on www.fedn.com
+FEDN will available for everyone. it will be available soon on www.free-edn.com
 
 # Contact
 
